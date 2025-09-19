@@ -1,14 +1,11 @@
-# 🎓 Faculty of Information Technology (DaiNam University)
-
-## 📂 TRUYỀN FILE QUA UDP 
-
-<div align="center">
-
-<img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170" style="margin: 0 15px; vertical-align: middle;"/>
-<img src="docs/fitdnu_logo.png" alt="FITDNU Logo" width="180" style="margin: 0 15px; vertical-align: middle;"/>
-<img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200" style="margin: 0 15px; vertical-align: middle;"/>
-
-<br><br>
+<h2 align="center">
+    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    🎓 Faculty of Information Technology (DaiNam University)
+    </a>
+</h2>
+<h2 align="center">
+   GỬI EMAIL MÔ PHỎNG SMTP QUA SOCKET
+</h2>
 
 <a href="https://www.facebook.com/DNUAIoTLab">
     <img src="https://img.shields.io/badge/AIoTLab-green?style=for-the-badge" alt="AIoTLab"/>
