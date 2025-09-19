@@ -95,22 +95,9 @@
 
 ---
 
-## 📸 5. Hình ảnh minh họa
 
-<p align="center">
-  <img src="docs/udp_login.png" width="240" height="160" alt="Login GUI" />
-</p>
-<p align="center"><i>Hình 1. Màn hình đăng nhập</i></p>
-
-<p align="center">
-  <img src="docs/udp_transfer.png" width="240" height="160" alt="File transfer GUI" />
-</p>
-<p align="center"><i>Hình 2. Màn hình gửi file</i></p>
-
----
-
-## 📞 6. Liên hệ
-- 💌 Email: nvn60211@gmail.com  
-- ☎️ SĐT: 0866659701  
+## 📞 5. Liên hệ
+- 💌 Email: tattoan181@gmail.com  
+- ☎️ SĐT: 0976987556  
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.  
