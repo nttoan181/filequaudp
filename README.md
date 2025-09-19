@@ -3,15 +3,22 @@
 ## 📂 TRUYỀN FILE QUA UDP VỚI ĐĂNG NHẬP VÀ LƯU CSDL SQLITE
 
 <div align="center">
-    <p>
-        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="docs/fitdnu_logo.png" alt="FITDNU Logo" width="180"/>
-        <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-    </p>
 
-[![AIoTLab](https://img.shields.io/badge/AIoTLab-green?style=for-the-badge)](https://www.facebook.com/DNUAIoTLab)  
-[![Faculty of Information Technology](https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge)](https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin)  
-[![DaiNam University](https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge)](https://dainam.edu.vn)
+<img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170" style="margin: 0 15px; vertical-align: middle;"/>
+<img src="docs/fitdnu_logo.png" alt="FITDNU Logo" width="180" style="margin: 0 15px; vertical-align: middle;"/>
+<img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200" style="margin: 0 15px; vertical-align: middle;"/>
+
+<br><br>
+
+<a href="https://www.facebook.com/DNUAIoTLab">
+    <img src="https://img.shields.io/badge/AIoTLab-green?style=for-the-badge" alt="AIoTLab"/>
+</a>
+<a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge" alt="Faculty of Information Technology"/>
+</a>
+<a href="https://dainam.edu.vn">
+    <img src="https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge" alt="DaiNam University"/>
+</a>
 
 </div>
 
@@ -95,9 +102,21 @@
 
 ---
 
-
 ## 📞 5. Liên hệ
 - 💌 Email: tattoan181@gmail.com  
 - ☎️ SĐT: 0976987556  
 
 © 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.  
+
+<div align="center">
+<a href="https://www.facebook.com/DNUAIoTLab">
+    <img src="https://img.shields.io/badge/AIoTLab-green?style=for-the-badge" alt="AIoTLab"/>
+</a>
+<a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
+    <img src="https://img.shields.io/badge/Faculty%20of%20Information%20Technology-blue?style=for-the-badge" alt="Faculty of Information Technology"/>
+</a>
+<a href="https://dainam.edu.vn">
+    <img src="https://img.shields.io/badge/DaiNam%20University-orange?style=for-the-badge" alt="DaiNam University"/>
+</a>
+</div>
+
