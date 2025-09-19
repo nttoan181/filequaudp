@@ -1,6 +1,6 @@
 # 🎓 Faculty of Information Technology (DaiNam University)
 
-## 📂 TRUYỀN FILE QUA UDP VỚI ĐĂNG NHẬP VÀ LƯU CSDL SQLITE
+## 📂 TRUYỀN FILE QUA UDP 
 
 <div align="center">
 
